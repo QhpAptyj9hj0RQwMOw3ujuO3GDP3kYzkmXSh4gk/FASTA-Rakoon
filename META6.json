@@ -1,0 +1,20 @@
+{
+    "perl" : "6.d",
+    "name" : "FASTA",
+    "auth" : "github:QhpAptyj9hj0RQwMOw3ujuO3GDP3kYzkmXSh4gk",
+    "version" : "0.1.0-pre-alpha",
+    "description" : "Raku library for working with FASTA files.",
+    "authors" : "<qhpaptyj9hj0rqwmow3ujuo3gdp3kyzkmxsh4gk@ctemplar.com>",
+    "__comment" : "add api field after version 1.0.0",
+    "license" : "Artistic-2.0",
+    "provides" : {
+	"FASTA" : "lib/FASTA-Rakoon/fasta-parse.rakumod"
+    },
+    "depends" : [],
+    "build-depends" : [],
+    "test-depends" : [],
+    "resources" : [],
+    "tags" : [
+	"FASTA", "Bioinformatics", "DNA"
+    ]
+}
