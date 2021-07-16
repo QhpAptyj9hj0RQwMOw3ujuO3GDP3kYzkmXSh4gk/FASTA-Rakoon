@@ -2,7 +2,7 @@
     "perl" : "6.d",
     "name" : "FASTA",
     "auth" : "github:QhpAptyj9hj0RQwMOw3ujuO3GDP3kYzkmXSh4gk",
-    "version" : "0.1.0-pre-alpha",
+    "version" : "0.1.1-pre-alpha",
     "description" : "Raku library for working with FASTA files.",
     "authors" : "<qhpaptyj9hj0rqwmow3ujuo3gdp3kyzkmxsh4gk@ctemplar.com>",
     "__comment" : "add api field after version 1.0.0",

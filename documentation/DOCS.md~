@@ -1,9 +1,0 @@
-The aim of DOCS.md is to document all functionality provided by this library.
-
-codons-to-admino-acids($codon)
-
-Takes a codon as a string, outputs full name of amino acid, as a string.
-
-read-fasta-by-codon($file)
-
-Takes file location, 
